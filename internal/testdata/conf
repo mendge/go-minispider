@@ -1,0 +1,8 @@
+[spider]urlListFile = 
+outputDirectory = ./out/
+maxDepth = 1
+crawlInterval = 4
+crawlTimeout = 10
+targetUrl = .*
+threadCount = 4
+targetUrlRE = .*
