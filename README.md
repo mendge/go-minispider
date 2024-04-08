@@ -49,5 +49,5 @@ $ cd go-minispider
 $ go build -o ./bin/mini_spider main.go
 ...按需要修改配置文件
 $ cd bin
-$ mini_spider -c ../conf -l ../log
+$ ./mini_spider -c ../conf -l ../log
 ```
